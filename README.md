@@ -1,5 +1,6 @@
 # Centralized Student Management System - for Ranchi University 
 
+### © 2023 - Yogesh Kumar Jha 
 The Centralized Student Management System for Ranchi University is a comprehensive web-based platform designed to simplify and streamline the student management process for the university. This system is designed to provide easy access to information related to student attendance, results, library book issues, digital locker, fine or dues facilities, and community chat.
 
 ## Features
