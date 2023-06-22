@@ -1,0 +1,1 @@
+<?php echo"MASTER: YOGESH KUMAR JHA\nVersion: © 2022-2023\n"; phpinfo(); ?>
