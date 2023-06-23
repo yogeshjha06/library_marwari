@@ -444,7 +444,7 @@ $rs1 = mysqli_fetch_array($query);
           <div class="card">
             <div class="card-body profile-card pt-4 d-flex flex-column align-items-center">
 
-              <img  src="assets/images/stu.png" alt="Profile" class="rounded-circle">
+              <img  src="assets/images/stu.png" alt="Profile" style="border-width: 3px;border-style: solid; border-color: #0000ff;" class="rounded-circle">
               <h2><a href="#"><?php echo $name_student;?></a></h2>
               <h3>Marwari College - Ranchi</h3>
               <h6>Course : <?php echo $department;?></h6>
