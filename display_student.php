@@ -53,7 +53,7 @@ else
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/favio.png" rel="icon">
+  <link href="assets/img/favio.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -93,7 +93,7 @@ else
 
     <div class="d-flex align-items-center justify-content-between">
       <a href="./index.php" class="logo d-flex align-items-center">
-        <img src="assets/img/logo.png" alt="">
+        <img src="assets/img/marwari.jpeg" alt="">
         <span class="d-none d-lg-block">Admin</span>
       </a>
       <i class="bi bi-list toggle-sidebar-btn"></i>
