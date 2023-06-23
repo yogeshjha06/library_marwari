@@ -29,7 +29,7 @@ else
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/favio.png" rel="icon">
+  <link href="assets/img/favio.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -69,7 +69,7 @@ else
 
   <div class="d-flex align-items-center justify-content-between">
   <a href="student_index.php" class="logo d-flex align-items-center">
-    <img src="assets/img/logo.png" alt="">
+    <img src="assets/img/marwari.jpeg" alt="">
     <span class="d-none d-lg-block">Student</span>
   </a>
   <i class="bi bi-list toggle-sidebar-btn"></i>
@@ -378,7 +378,7 @@ $date11 = $rs1["date"];//date
                     <div class='nearby-user' style='border-radius: 50px 50px 50px 50px;'>
                         <div class='row'>
                         <div class='col-md-2 col-sm-2'>
-                            <img src='./assets/images/admin.jpg' alt='user' class='profile-photo-lg'>
+                            <img src='./assets/images/stu.png' style='border-width: 3px;border-style: solid; border-color: #0000ff;' alt='user' class='profile-photo-lg'>
                         </div>
                         <div class='col-md-6 col-sm-7'>
                             <h5><a href='#' class='profile-link'>".$row['name']." &nbsp </a></h5>
@@ -398,7 +398,7 @@ $date11 = $rs1["date"];//date
                     <div class='nearby-user' style='border-radius: 50px 50px 50px 50px;'>
                         <div class='row'>
                         <div class='col-md-2 col-sm-2'>
-                            <img src='./assets/images/error.png' alt='user' class='profile-photo-lg'>
+                            <img src='./assets/images/profile.png' style='border-width: 3px;border-style: solid; border-color: #0000ff;' alt='user' class='profile-photo-lg'>
                         </div>
                         <div class='col-md-6 col-sm-7'>
                             <h5>No Result Found</h5>
